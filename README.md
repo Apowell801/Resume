@@ -22,5 +22,19 @@ Experienced GIS Systems Analyst with strengths in analysis and organization of s
 ***
 ### EDUCATION
 ***
+__2012		MS Geography ~ University of Utah___ (emphasis in remote sensing)
+__2009		BS Geography ~ University of Utah___  
+__PROFESSIONAL SUMMARY__
++ ArcGIS
+    + Introdution to Python for ArcGIS
+    + Image Analysis for ArcGIS
+    + Editing in ArcMap
+    + ArcGIS Basin and Play Analysis for Petroleum by Exprodat
+    + ArcGIS 3D Surface Analysis for Petroleum by Exprodate
++ Microsoft Office Applications
+    + Microsoft Office Access 2010 Level 1 and 2 by CompuTrain Buisness Solutions
+ 
+ __ADDITONAL SOFTWARE EXPERIENCE__: Microsoft Office Applications, FME, IHS Petra
+ ***
 
 
