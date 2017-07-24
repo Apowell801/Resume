@@ -1,5 +1,5 @@
-# Ashley Powell
-801-792-1263 
+# ASHLEY POWELL
+ashley.lake.powell@gmail.com    801-792-1263 
 ***
 ### PROFESSIONAL SUMMARY 
 ***
@@ -20,4 +20,5 @@ __10/2012-10/2015 Geoscience Technician at Apache Corporation__, Houston Texas
 +	Generated documentation for work flow processes regarding ArcGIS toolbox applications to support regional team
 +	Streamlined workflows using model builder (within ArcGIS) and FME
 ***
+### EDUCATION
 
