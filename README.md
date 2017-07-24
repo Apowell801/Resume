@@ -13,7 +13,12 @@ Experienced GIS Systems Analyst with strengths in analysis and organization of s
 + Create and maintain pipeline database within ArcGIS with the use GPS and ESRI mobile technologies to manage regulatory reporting needs by submit maps and additional documentation to the State of Texas and 811 OneCall for safety and regulation
 + Built web maps with ArcGIS online and Portal in order to increase the ease of access and data comprehension of our clients through quick and powerful visualizations run by the end user 
 + Update Lesser Prairie Chicken Maps and data to ensure Apache is in compliance with the latest WAFWA regulation in the company’s areas of oil and gas operation.
-
+10/2012-10/2015	 __Geoscience Technician at Apache Corporation__, Houston Texas
++	Created and developed digital and hardcopy maps in ArcGIS (i.e. rasters), digitized paper maps
++	Managed spatial data by adding, updating data tables and migrating daa in ArcGIS, exporting data, and providing quality control for all spatial data to ensure correct projection or geographic coordinate system
++	Generated documentation for work flow processes regarding ArcGIS toolbox applications to support regional team
++ Streamlined workflows using model builder (within ArcGIS) and FME
+***
 
 ___
 
