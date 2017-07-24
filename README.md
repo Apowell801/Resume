@@ -1,6 +1,6 @@
 # Ashley Powell
 801-792-1263
-# H1
+#
 
 ### PROFESSIONAL SUMMARY
 #H1
