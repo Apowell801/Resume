@@ -21,5 +21,6 @@ __10/2012-10/2015 Geoscience Technician at Apache Corporation__, Houston Texas
 +	Streamlined workflows using model builder (within ArcGIS) and FME
 ***
 ### EDUCATION
+***
 
 
