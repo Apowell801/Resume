@@ -22,3 +22,4 @@ __10/2012-10/2015 Geoscience Technician at Apache Corporation__, Houston Texas
 ***
 ### EDUCATION
 
+
